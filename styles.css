@@ -1,0 +1,19 @@
+.header-line-1,
+.header-line-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-line-2{
+    align-items: center;
+    margin-top: 50px;
+}
+
+.header-right{
+    display: flex;
+}
+
+.samosa-img{
+    height: 100px;
+    width: 150px;
+}
