@@ -7,20 +7,56 @@
 .header-line-2{
     display: flex;
     justify-content: space-around;
+    align-items: center;
+}
+
+.header-logo{
+    margin: 8px;
+    color: #F9FAF8;
+    font-size: 24px;
 }
 
 .header-line-2{
     align-items: center;
     margin-top: 50px;
+    padding-bottom: 50px;
+    align-content: center;
 }
+
+
+
+.header-line-2 h1,
+.header-line-2 p{
+    margin: 5px;
+}
+
+.header-line-2 .intro-1{
+    align-self: center;
+    margin-top: 20px;
+}
+
 
 .header-right{
     display: flex;
 }
+.header-right div{
+    margin: 8px;
+}
 
 .samosa-img{
-    height: 100px;
-    width: 150px;
+    height: 180px;
+    width: 220px;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+}
+
+.intro .intro-1{
+    background-color: #3882F6;
+    max-width: fit-content;
+    padding: 3px 6px 3px 6px;
 }
 
 .section-1{
