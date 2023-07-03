@@ -59,4 +59,25 @@
     align-content: center;
     width: 500px;
     margin: auto;
+    
+}
+
+.section-3{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.section-3 .item-1{
+    display: flex;
+    width: 700px;
+    height: auto;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882F6;
+}
+
+.section-3 .item-1-2{
+    border: solid 1px white;
+    padding: 2px 5px 2px 5px;
 }
