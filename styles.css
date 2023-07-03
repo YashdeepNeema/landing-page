@@ -57,6 +57,7 @@
     background-color: #3882F6;
     max-width: fit-content;
     padding: 3px 6px 3px 6px;
+    border-radius: 4px;
 }
 
 .section-1{
@@ -84,6 +85,7 @@
 .info-img{
     height: 80px;
     max-width: 80px;
+    border-radius: 10px;
 }
 
 .section-2{
@@ -111,11 +113,13 @@
     justify-content: space-around;
     align-items: center;
     background-color: #3882F6;
+    border-radius: 5px;
 }
 
 .section-3 .item-1-2{
     border: solid 1px white;
     padding: 2px 5px 2px 5px;
+    border-radius: 4px;
 }
 
 .footer {
